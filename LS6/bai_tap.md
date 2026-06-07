@@ -219,3 +219,7 @@ Xếp hạng theo điểm TB (cao → thấp):
 ```
 
 > **Gợi ý:** Dùng `zip()` để duyệt nhiều list song song, dùng `sorted()` với `key=` để sắp xếp theo điều kiện tùy chỉnh.
+
+---
+
+> **Bài tập nâng cao** — Xem **BÀI 7: Vòng lặp với List** trong thư mục LS7

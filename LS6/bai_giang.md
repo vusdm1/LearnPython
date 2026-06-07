@@ -417,7 +417,11 @@ Trứng gà         5,000   10     50,000
 
 ---
 
-## BẢNG TỔNG KẾT CÁC PHƯƠNG THỨC LIST
+
+> **Nội dung nâng cao** — Xem **BÀI 7: Vòng lặp với List**
+
+---
+
 
 | Phương thức / Hàm     | Mô tả                  | Thay đổi list gốc? |
 | --------------------- | ---------------------- | :----------------: |
